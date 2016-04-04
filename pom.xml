@@ -30,12 +30,12 @@
         <dependency>
             <groupId>ru.yandex.qatools.allure</groupId>
             <artifactId>allure-java-aspects</artifactId>
-            <version>1.4.15</version>
+            <version>1.4.23</version>
         </dependency>
         <dependency>
             <groupId>ru.yandex.qatools.allure</groupId>
             <artifactId>allure-commons</artifactId>
-            <version>1.4.15</version>
+            <version>1.4.23</version>
         </dependency>
         <dependency>
             <groupId>org.hamcrest</groupId>
