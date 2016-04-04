@@ -8,6 +8,10 @@ import cucumber.api.java.en.When;
 import static org.hamcrest.MatcherAssert.assertThat;
 import static org.hamcrest.Matchers.equalTo;
 
+/**
+ * Created by Anton_Shapin on 4/4/2016.
+ */
+
 public class CommonStepsDef {
     private int varA;
     private  int varB;
